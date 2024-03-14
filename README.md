@@ -22,7 +22,7 @@
 <hr width="100%" noshade/>
 
 <div> 
-   <a href="https://instagram.com/diogo.bps" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"></a>
+   <a href="https://instagram.com/diogo.bps" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
  	<a href="https://www.twitch.tv/diogobarros82" target="_blank"><img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&logoColor=#6441a5" target="_blank"></a>
  <a href="https://discord.gg/xaWMPAWu" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA" target="_blank"></a> 
   <a href = "mailto:diogodpimentel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
